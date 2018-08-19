@@ -1,6 +1,30 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
+ext {
+    bintrayRepo = 'maven'
+    bintrayName = 'colorseekbar'
+
+    publishedGroupId = 'com.divyanshu.colorseekbar'
+    libraryName = 'ColorSeekBar'
+    artifact = 'colorseekbar'
+
+    libraryDescription = 'A color picker seekbar for android.'
+
+    siteUrl = 'https://github.com/divyanshub024/ColorSeekBar'
+    gitUrl = 'https://github.com/divyanshub024/ColorSeekBar.git'
+
+    libraryVersion = '1.0'
+
+    developerId = 'divyanshub024'
+    developerName = 'Divyanshu Bhargava'
+    developerEmail = 'divyanshub024@gmail.com'
+
+    licenseName = 'The Apache Software License, Version 2.0'
+    licenseUrl = 'http://www.apache.org/licenses/LICENSE-2.0.txt'
+    allLicenses = ["Apache-2.0"]
+}
+
 android {
     compileSdkVersion 28
     buildToolsVersion "28.0.1"
@@ -37,3 +61,5 @@ dependencies {
 repositories {
     mavenCentral()
 }
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/installv1.gradle'
+apply from: 'https://raw.githubusercontent.com/nuuneoi/JCenter/master/bintrayv1.gradle'
