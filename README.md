@@ -1,4 +1,4 @@
-# ColorSeekBar [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-ColorSeekBar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7095 )
+# ColorSeekBar [![Android Arsenal]( https://img.shields.io/badge/Android%20Arsenal-ColorSeekBar-green.svg?style=flat )]( https://android-arsenal.com/details/1/7095 ) [ ![Download](https://api.bintray.com/packages/divyanshub024/maven/colorseekbar/images/download.svg) ](https://bintray.com/divyanshub024/maven/colorseekbar/_latestVersion)
 A color picker seekbar for android.
 
 <img src = "https://github.com/divyanshub024/ColorSeekBar/blob/master/Art/seekbar.gif" />
