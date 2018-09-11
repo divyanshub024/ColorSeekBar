@@ -14,7 +14,7 @@ ext {
     siteUrl = 'https://github.com/divyanshub024/ColorSeekBar'
     gitUrl = 'https://github.com/divyanshub024/ColorSeekBar.git'
 
-    libraryVersion = '1.0'
+    libraryVersion = '1.0.2'
 
     developerId = 'divyanshub024'
     developerName = 'Divyanshu Bhargava'
@@ -32,8 +32,8 @@ android {
     defaultConfig {
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
-        versionCode 1
-        versionName "1.0"
+        versionCode 2
+        versionName "1.0.2"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
