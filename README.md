@@ -71,6 +71,10 @@ compile 'com.divyanshu.colorseekbar:colorseekbar:1.0'
             }
         })
 ```
+## Connect
+
+- [Twitter](https://twitter.com/divyanshub024)
+- [Medium](https://medium.com/@divyanshub024)
 
 ## LICENCE
 ```
