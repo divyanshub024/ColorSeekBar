@@ -76,10 +76,6 @@ compile 'com.divyanshu.colorseekbar:colorseekbar:1.0.2'
 - [Twitter](https://twitter.com/divyanshub024)
 - [Medium](https://medium.com/@divyanshub024)
 
-## Support this project
-
-<a href="https://www.buymeacoffee.com/TytVOnp" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
 ## LICENCE
 ```
 Copyright 2018 Divyanshu Bhargava
