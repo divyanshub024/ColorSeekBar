@@ -6,7 +6,7 @@ A color picker seekbar for android.
 ## Download
  - Use Gradle
 ```
-compile 'com.divyanshu.colorseekbar:colorseekbar:1.0'
+compile 'com.divyanshu.colorseekbar:colorseekbar:1.0.2'
 ```
 - or Maven
 
@@ -14,7 +14,7 @@ compile 'com.divyanshu.colorseekbar:colorseekbar:1.0'
 <dependency>
   <groupId>com.divyanshu.colorseekbar</groupId>
   <artifactId>colorseekbar</artifactId>
-  <version>1.0</version>
+  <version>1.0.2</version>
   <type>pom</type>
 </dependency>
 ```
